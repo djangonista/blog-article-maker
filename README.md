@@ -4,7 +4,7 @@ Zrób sobie artykuły z ulubionych postów.
 
 ## Start
 
-Pobierz katalog z projektem.
+Pobierz katalog z projektem (clone or download)
 
 ### Wymagania
 
